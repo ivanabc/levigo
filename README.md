@@ -1,6 +1,6 @@
 # Levigo
 
-### Install
+### install
 ~~~
 cd $GOPATH
 mkdir deps && deps
